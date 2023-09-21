@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suparnoghosh22
 - 👀 I’m interested in Web Development,I have a good knowledge of JavaScript,NodeJS,Express,MYSQL,MongoDB,Python and Java
-- 🧑‍💼 I had the privilege of interning at Persistent Systems this summer.
+- 🧑‍💼 I had the privilege of interning at Persistent Systems 
 - 🌱 I’m currently learning Django
 - 📫 How to reach me suparno22official@gmail.com
 
